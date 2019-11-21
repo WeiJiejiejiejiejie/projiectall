@@ -1,0 +1,38 @@
+@charset "utf-8";
+html,body,div,p,form,label,ul,li,dl,dt,dd,ol,img,button,b,em,strong,small,h1,h2,h3,h4,h5,h6{margin:0;padding:0;border:0;list-style:none;font-style:normal;}
+body{font-family:SimHei,'Helvetica Neue',Arial,'Droid Sans',sans-serif,'微软雅黑';font-size:14px;color:#333;background-color: rgba(238,238,238)}
+a, a.link{color:#666;text-decoration:none;font-weight:500;}
+a, a.link:hover{color:#666;}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+
+.clear:after{content:"";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+
+
+body,ul,ol,dl,dd,p,h1,h2,h3,h4,h5,h6,input,textarea,hr,div,em,strong{
+    margin:0;
+    padding:0;
+}
+/*body{*/
+/*    font-family: "";*/
+/*}*/
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: none;
+}
+html{
+    font-size: 26.666vw;
+}
+body{
+    width: 3.75rem;
+    font-size: .14rem;
+    font-family: Arial,Helvetica,STHeiTi,sans-serif;
+}
+/*after{content:"";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}*/
+
+
+
